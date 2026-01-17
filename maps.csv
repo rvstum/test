@@ -1,0 +1,331 @@
+﻿map1,location1,Cavern,0,Dirt,Boundary,Rail,Mushroom
+map2,location2,Overworld,0,Flower,Path,Sign
+map3,location3,Overworld,0,Dirt,Boundary,Water,Baddy
+map4,location4,Overworld,0,Dirt,Boundary,Flower,Sign,Doorway
+map5,location5,Overworld,3,Other,Tree,Flower,Path
+map6,location6,Cavern,0,Dirt,Boundary,Boulder,Mushroom
+map7,location7,Overworld,0,Building,Fence,Flower
+map8,location8,Overworld,0,Other,Boundary,Flower
+map9,location9,Overworld,0,Boundary
+map10,location10,Big City,0,Trunk,Bush,Baddy
+map11,location11,Cavern,0,Dirt,Boundary,Mushroom
+map12,location12,Overworld,0,Building,Other,Boundary,Flower
+map13,location13,Cavern,0,Dirt,Boundary,Rail
+map14,location14,Cavern,0,Dirt,Boulder,Bug
+map15,location15,Overworld,2,Other,Tree
+map16,location16,Overworld,1,Tree,Flower
+map17,location17,Cavern,0,Dirt,Boundary,Rail,Mushroom
+map18,location18,Overworld,0,Water,Path
+map19,location19,Cavern,0,Dirt,Rail,Mushroom
+map20,location20,Overworld,0,Boundary,Path,Baddy,Other
+map21,location21,Overworld,0,Grass,Sign
+map22,location22,Overworld,3,Tree,Bush,Path
+map23,location23,Cavern,0,Dirt,Boundary,Rail,Boulder,Bug
+map24,location24,Overworld,0,Building,Flower
+map25,location25,Overworld,0,Dirt,Boundary
+map26,location26,Big City,0,Dirt,Boundary,Water
+map27,location27,Overworld,0,Other,Trunk,Dirt,Boundary
+map28,location28,Overworld,0,Fence,Other,Bush,Dirt,Baddy
+map29,location29,Overworld,3,Tree,Flower
+map30,location30,Cavern,0,Dirt,Boundary,Rail,Void
+map31,location31,Overworld,0,Other,Dirt,Flower
+map32,location32,Overworld,3,Building,Tree,Flower
+map33,location33,Cavern,0,Other,Dirt,Boundary,Mushroom
+map34,location34,Overworld,0,Other,Trunk,Water
+map35,location35,Snow,0,Building,Fence,Other,Flower
+map36,location36,Overworld,1,Tree
+map37,location37,Overworld,0,Grass,Boundary
+map38,location38,Overworld,0,Boundary,Flower,Water
+map39,location39,Cavern,0,Dirt,Boundary,Water,Void,Mushroom
+map40,location40,Overworld,0,Building,Dirt,Boundary
+map41,location41,Overworld,1,Tree,Dirt,Boundary,Baddy
+map42,location42,Overworld,0,Other,Dirt,Boundary
+map43,location43,Overworld,0,Building,Dirt,Water,Path,Bug
+map44,location44,Cavern,0,Bush,Dirt,Boundary,Rail,Mushroom
+map45,location45,Cavern,0,Dirt,Rail,Baddy
+map46,location46,Overworld,0,Fence,Other,Flower
+map47,location47,Overworld,0,Fence,Bush,Dirt,Boundary,Water
+map48,location48,Cavern,0,Dirt,Boundary,Rail
+map49,location49,Cavern,0,Dirt,Boundary,Rail
+map50,location50,Cavern,0,Fence,Bush,Dirt,Boundary,Flower,Mushroom
+map51,location51,Overworld,3,Fence,Tree,Dirt,Boundary,Boulder
+map52,location52,Overworld,0,Dirt,Boundary,Doorway
+map53,location53,Overworld,2,Building,Tree,Red Tree,Trunk,Bush,Dirt,Hedge
+map54,location54,Overworld,0,Bush,Dirt,Boundary
+map55,location55,Snow,1,Tree,Grass,Boundary
+map56,location56,Snow,0,Building
+map57,location57,Overworld,0,Bush,Boundary,Water
+map58,location58,Overworld,0,Other,Dirt,Rail
+map59,location59,Overworld,0,Grass,Path
+map60,location60,Overworld,0,Other,Bush,Boundary,Water
+map61,location61,Overworld,0,Other,Dirt,Flower,Path
+map62,location62,Cavern,0,Dirt,Boundary,Void,Mushroom
+map63,location63,Big City,1,Tree,Bush,Boundary
+map64,location64,Snow,2,Tree,Bush
+map65,location65,Overworld,0,Other,Flower,Path
+map66,location66,Overworld,0,Other,Flower,Path,Sign,Hedge
+map67,location67,Overworld,0,Tree,Trunk,Bush,Path
+map68,location68,Cavern,0,Dirt,Boundary,Void,Boulder
+map69,location69,Overworld,0,Dirt,Boundary,NPC
+map70,location70,Cavern,0,Dirt,Boundary,Boulder
+map71,location71,Overworld,0,Bush,Dirt,Boundary
+map72,location72,Overworld,0,Dirt
+map73,location73,Big City,0,Other
+map74,location74,Overworld,1,Red Tree,Grass,Dirt,Boundary
+map75,location75,Cavern,0,Other,Dirt,Boundary,Bug
+map76,location76,Big City,0,Other,Bush
+map77,location77,Overworld,1,Building,Tree,Flower,Path
+map78,location78,Overworld,0,Dirt,Boundary,Path
+map79,location79,Overworld,0,Building,Other,Bush,Dirt,Path
+map80,location80,Big City,0,Other,Dirt,Boundary,Water
+map81,location81,Overworld,2,Building,Tree
+map82,location82,Overworld,0,Building
+map83,location83,Overworld,3,Building,Red Tree,Bush,Flower,Water
+map84,location84,Overworld,0,Fence,Grass,Bush,Path,Sign
+map85,location85,Overworld,0,Building,Dirt,Path,Bug
+map86,location86,Overworld,0,Building,Flower,Path,Other
+map87,location87,Overworld,4,Tree,Boundary,Flower
+map88,location88,Overworld,3,Tree,Bush
+map89,location89,Overworld,1,Tree,Grass,Baddy
+map90,location90,Cavern,0,Dirt,Boundary,Rail,Void
+map91,location91,Overworld,1,Red Tree,Grass,Baddy
+map92,location92,Overworld,1,Tree,Boundary,Water
+map93,location93,Cavern,0,Dirt,Flower,Mushroom
+map94,location94,Snow,0,Building
+map95,location95,Cavern,0,Dirt,Boundary,Void,Boulder
+map96,location96,Big City,0,Grass,Bush,Baddy
+map97,location97,Overworld,0,Other,Dirt
+map98,location98,Cavern,0,Dirt,Water,Bug
+map99,location99,Overworld,0,Dirt,Boundary,Doorway
+map100,location100,Overworld,2,Tree,Dirt,Path
+map101,location101,Big City,0,Dirt,Boundary,Water,Baddy
+map102,location102,Cavern,0,Dirt,Boundary,Rail
+map103,location103,Overworld,8,Tree
+map104,location104,Big City,1,Tree,Bush
+map105,location105,Big City,0,Water
+map106,location106,Overworld,0,Building,Flower,Path,Hedge
+map107,location107,Overworld,2,Tree,Dirt
+map108,location108,Overworld,0,Building,Flower
+map109,location109,Overworld,3,Tree,Bush,Boundary,Flower,Water
+map110,location110,Overworld,1,Other,Tree,Flower
+map111,location111,Overworld,0,Boundary,Flower,Sign
+map112,location112,Cavern,0,Dirt,Boundary,Rail,Boulder,Mushroom
+map113,location113,Cavern,0,Dirt,Boundary,Rail,Void
+map114,location114,Overworld,2,Other,Tree,Dirt
+map115,location115,Overworld,5,Tree,Red Tree,Flower,Path
+map116,location116,Overworld,2,Tree,Flower,Path
+map117,location117,Overworld,3,Tree,Bush,Dirt,Flower
+map118,location118,Overworld,2,Tree,Flower,Path
+map119,location119,Overworld,1,Building,Tree,Path
+map120,location120,Overworld,1,Building,Red Tree,Flower,Path,Stone
+map121,location121,Cavern,0,Dirt,Boundary,Rail,Boulder
+map122,location122,Cavern,0,Dirt,Boundary,Rail,Boulder
+map123,location123,Overworld,1,Building,Tree,Flower,Path,Sign
+map124,location124,Overworld,3,Tree,Grass,Bush
+map125,location125,Overworld,4,Tree
+map126,location126,Overworld,1,Fence,Tree,Dirt,Sign,Hedge
+map127,location127,Cavern,0,Dirt,Boundary,Boulder
+map128,location128,Overworld,0,Other,Dirt,Boundary
+map129,location129,Snow,1,Tree,Bush,Flower
+map130,location130,Overworld,0,Building,Flower,Path
+map131,location131,Overworld,0,Dirt,Fence,Bush,Other
+map132,location132,Big City,0,Dirt,Boundary
+map133,location133,Overworld,0,Building,Other,Dirt,Boulder
+map134,location134,Cavern,0,Dirt,Boundary,Rail,Mushroom
+map135,location135,Cavern,0,Dirt,Boundary,Void,Boulder,Mushroom,Doorway
+map136,location136,Overworld,0,Other,Dirt,Water
+map137,location137,Overworld,0,Fence,Other,Dirt,Boundary,Doorway
+map138,location138,Overworld,0,Other
+map139,location139,Overworld,2,Red Tree,Grass
+map140,location140,Big City,0,Bush
+map141,location141,Overworld,0,Other,Boundary,Flower,NPC
+map142,location142,Big City,0,Tree,Trunk,Bush,Dirt
+map143,location143,Overworld,0,Dirt,Boundary,Water
+map144,location144,Overworld,0,Building,Flower
+map145,location145,Overworld,0,Grass,Bush,Boundary,Baddy
+map146,location146,Overworld,3,Tree
+map147,location147,Overworld,0,Building,Other,Bush,Path,Stone
+map148,location148,Overworld,2,Other,Tree,Flower,Path,Hedge
+map149,location149,Overworld,0,Fence,Other,Dirt,Boundary,Hedge
+map150,location150,Overworld,0,Other,Path,Sign
+map151,location151,Big City,0,Other,Dirt
+map152,location152,Big City,0,Dirt
+map153,location153,Overworld,0,Building,Dirt,Flower,Path,Hedge
+map154,location154,Cavern,0,Dirt,Boundary,Boulder,Mushroom
+map155,location155,Cavern,0,Dirt,Boundary,Rail,Void
+map156,location156,Cavern,0,Dirt,Water
+map157,location157,Overworld,0,Building,Dirt,Path
+map158,location158,Cavern,0,Dirt,Boundary,Doorway
+map159,location159,Overworld,4,Building,Other,Red Tree,Grass,Flower
+map160,location160,Cavern,0,Dirt,Boundary,Water,Baddy
+map161,location161,Snow,0,Building,Other,Boundary,Flower,Sign
+map162,location162,Cavern,1,Fence,Other,Tree,Bush,Flower
+map163,location163,Overworld,1,Red Tree,Trunk,Path,Sign
+map164,location164,Overworld,4,Red Tree,Grass,Bush,Flower
+map165,location165,Overworld,2,Tree,Path
+map166,location166,Overworld,1,Tree,Dirt
+map167,location167,Overworld,3,Tree,Grass,Flower
+map168,location168,Overworld,0,Grass,Flower
+map169,location169,Overworld,0,Fence,Other,Dirt,NPC
+map170,location170,Overworld,0,Dirt,Boundary,Path
+map171,location171,Cavern,0,Dirt,Boundary,Rail
+map172,location172,Overworld,3,Tree,Bush,Boundary
+map173,location173,Snow,0,Building,Fence,Other
+map174,location174,Big City,0,Trunk,Bush
+map175,location175,Overworld,0,Building,Trunk,Grass,Path
+map176,location176,Big City,0,Trunk,Bush,Boundary,Water
+map177,location177,Cavern,0,Dirt,Boundary,Void
+map178,location178,Overworld,2,Tree,Trunk
+map179,location179,Overworld,1,Other,Tree,Red Tree,Trunk,Grass,Bush,Boundary,Path
+map180,location180,Overworld,1,Fence,Other,Red Tree
+map181,location181,Overworld,0,Grass,Bush,Dirt,Boundary
+map182,location182,Overworld,0,Building,Bush,Flower,Path
+map183,location183,Cavern,0,Bush,Dirt,Boundary,Mushroom
+map184,location184,Overworld,2,Tree,Flower,Path
+map185,location185,Overworld,2,Building,Red Tree,Boundary
+map186,location186,Snow,1,Building,Tree,Flower,Grass
+map187,location187,Big City,0,Other,Boundary,NPC
+map188,location188,Overworld,0,Building,Other,Boundary,Path
+map189,location189,Cavern,0,Dirt,Water,Bug,Mushroom
+map190,location190,Overworld,0,Building,Boundary
+map191,location191,Overworld,0,Other,Dirt,Boundary
+map192,location192,Cavern,0,Dirt,Boundary,Water,Mushroom
+map193,location193,Overworld,2,Tree,Flower
+map194,location194,Overworld,0,Dirt,Boundary,Sign
+map195,location195,Overworld,4,Red Tree,Grass,Flower,Path
+map196,location196,Overworld,0,Building,Flower
+map197,location197,Overworld,1,Other,Red Tree,Flower
+map198,location198,Big City,0,Grass,Bush,Baddy
+map199,location199,Overworld,1,Tree,Dirt,Boundary
+map200,location200,Overworld,0,Dirt,Boundary,Flower
+map201,location201,Overworld,2,Tree,Trunk,Boundary,Flower
+map202,location202,Overworld,0,Other,Dirt
+map203,location203,Overworld,1,Tree,Red Tree,Grass
+map204,location204,Overworld,0,Other,Dirt,Flower
+map205,location205,Overworld,0,Dirt,Boundary,Water
+map206,location206,Big City,0,Bush
+map207,location207,Overworld,3,Red Tree,Grass,Flower,Water,Bug
+map208,location208,Overworld,1,Tree,Boundary,Flower
+map209,location209,Overworld,0,Building,Dirt,Boundary,Water
+map210,location210,Overworld,2,Other,Tree,Boundary
+map211,location211,Overworld,0,Bush,Dirt,Boundary,Flower
+map212,location212,Overworld,0,Building,Bush,Path
+map213,location213,Overworld,2,Red Tree,Flower,Water
+map214,location214,Overworld,0,Boundary,Flower,Path,Stone
+map215,location215,Overworld,0,Bush,Dirt,Boundary,Flower,Stone
+map216,location216,Overworld,0,Building,Dirt,Flower,Water,Path
+map217,location217,Overworld,0,Grass,Stone
+map218,location218,Overworld,1,Other,Tree,Bush,Path
+map219,location219,Snow,0,Fence,Other,Flower
+map220,location220,Cavern,0,Dirt,Boundary,Water,Mushroom
+map221,location221,Big City,0,Bush,Dirt
+map222,location222,Overworld,0,Building,Other,Water
+map223,location223,Overworld,1,Building,Other,Tree,Flower
+map224,location224,Overworld,0,Bush,Dirt,Boundary,Flower
+map225,location225,Snow,2,Tree,Grass,Flower
+map226,location226,Overworld,1,Building,Other,Red Tree,Path
+map227,location227,Overworld,0,Dirt,Boundary,Flower,Water
+map228,location228,Snow,0,Bush,Flower
+map229,location229,Overworld,0,Grass,Dirt,Boundary
+map230,location230,Overworld,0,Dirt,Boundary
+map231,location231,Overworld,3,Building,Other,Tree,Flower
+map232,location232,Overworld,1,Fence,Tree,Red Tree,Trunk,Flower,Path
+map233,location233,Overworld,1,Building,Tree,Red Tree,Trunk,Grass,Bush,Path
+map234,location234,Overworld,0,Flower,Path,Other,Hedge
+map235,location235,Snow,0,Other,Flower,Sign,NPC
+map236,location236,Overworld,0,Boundary
+map237,location237,Overworld,6,Tree
+map238,location238,Overworld,2,Building,Tree,Flower,Path
+map239,location239,Overworld,1,Building,Tree,Dirt,Path
+map240,location240,Overworld,0,Other,Dirt,Boundary,Sign
+map241,location241,Cavern,0,Dirt,Boundary,Void,Boulder,Mushroom,Doorway
+map242,location242,Overworld,0,Bush,Dirt,Boundary
+map243,location243,Snow,1,Tree,Flower,Hedge
+map244,location244,Snow,0,Building,Fence,Other,Bush,Flower
+map245,location245,Cavern,0,Dirt,Boundary,Rail,Boulder
+map246,location246,Overworld,1,Fence,Other,Tree,Flower,Hedge
+map247,location247,Overworld,0,Grass
+map248,location248,Cavern,0,Other,Dirt,Boundary,Bug,Mushroom
+map249,location249,Overworld,0,Other,Path
+map250,location250,Overworld,0,Other,Trunk,Dirt
+map251,location251,Overworld,0,Dirt,Boundary,Flower,Doorway
+map252,location252,Cavern,0,Dirt,Boundary
+map253,location253,Overworld,0,Building
+map254,location254,Cavern,0,Dirt,Boundary,Rail,Mushroom
+map255,location255,Snow,0,Building,Hedge
+map256,location256,Overworld,0,Building
+map257,location257,Overworld,4,Tree,Boundary
+map258,location258,Overworld,3,Other,Tree,Path
+map259,location259,Overworld,0,Dirt,Flower,Water
+map260,location260,Overworld,4,Red Tree,Grass,Flower
+map261,location261,Overworld,1,Other,Tree,Dirt
+map262,location262,Overworld,1,Building,Tree,Grass,Flower,Mushroom
+map263,location263,Overworld,0,Dirt,Boundary
+map264,location264,Overworld,3,Tree,Bush,Flower,Mushroom
+map265,location265,Cavern,0,Dirt,Boundary,Mushroom
+map266,location266,Overworld,0,Grass,Flower,Sign,Mushroom
+map267,location267,Overworld,2,Tree,Flower,Path
+map268,location268,Overworld,1,Building,Tree,Bush
+map269,location269,Overworld,3,Tree,Boundary,Rail
+map270,location270,Overworld,0,Boundary,Flower,Water
+map271,location271,Overworld,2,Tree,Flower
+map272,location272,Overworld,6,Tree
+map273,location273,Overworld,0,Dirt,Boundary
+map274,location274,Overworld,0,Dirt,Boundary,Sign,Doorway
+map275,location275,Overworld,0,Dirt,Boundary,NPC
+map276,location276,Overworld,1,Building,Tree,Path
+map277,location277,Overworld,2,Tree,Boundary,Flower,Path
+map278,location278,Cavern,0,Dirt,Boundary,Void,Mushroom
+map279,location279,Overworld,0,Building,Boundary,NPC
+map280,location280,Overworld,5,Tree,Flower
+map281,location281,Overworld,2,Dirt,Tree
+map282,location282,Overworld,0,Other,Dirt
+map283,location283,Overworld,0,Building,Other,Grass,Flower,Water
+map284,location284,Overworld,0,Building,Bush,Flower,Water
+map285,location285,Overworld,0,Dirt,Boundary,Mushroom
+map286,location286,Overworld,0,Other
+map287,location287,Overworld,0,Building,Bush,Boundary,Water,Boulder
+map288,location288,Overworld,0,Boundary
+map289,location289,Overworld,2,Tree
+map290,location290,Overworld,1,Tree,Grass
+map291,location291,Overworld,2,Tree,Grass,Bush
+map292,location292,Overworld,0,Dirt,Boundary
+map293,location293,Overworld,3,Building,Tree,Bush,Boundary,Flower
+map294,location294,Overworld,2,Red Tree,Grass,Boundary,Flower,Water
+map295,location295,Overworld,0,Other,Dirt,Boundary,Path
+map296,location296,Overworld,0,Dirt,Boundary
+map297,location297,Overworld,0,Grass,Boundary,Flower
+map298,location298,Overworld,0,Building,Boundary,Water
+map299,location299,Snow,0,Building,Other,Bush,Flower
+map300,location300,Snow,1,Tree,Bush,Boundary,Flower
+map301,location301,Overworld,2,Tree,Boundary
+map302,location302,Overworld,0,Grass
+map303,location303,Cavern,0,Other,Dirt,Void,Sign
+map304,location304,Overworld,0,Dirt,Boundary
+map305,location305,Overworld,0,Dirt,Boundary
+map306,location306,Overworld,1,Tree,Boundary,Flower
+map307,location307,Overworld,3,Tree,Grass
+map308,location308,Overworld,0,Dirt,Boundary,Flower
+map309,location309,Overworld,2,Other,Tree
+map310,location310,Overworld,2,Red Tree,Flower,Baddy
+map311,location311,Overworld,0,Bush,Boundary,Flower
+map312,location312,Overworld,0,Other,Trunk
+map313,location313,Overworld,1,Fence,Red Tree,Flower,Path
+map314,location314,Overworld,0,Building,Other,Path,Sign
+map315,location315,Overworld,0,Grass
+map316,location316,Overworld,0,Dirt,Building,Path,Doorway
+map317,location317,Big City,0,Dirt,Boundary,Water
+map318,location318,Overworld,0,Fence,Other,Grass,Doorway
+map319,location319,Overworld,0,Building,Bush,Dirt,Boundary
+map320,location320,Overworld,0,Other
+map321,location321,Overworld,0,Fence,Other,Dirt
+map322,location322,Overworld,0,Building,Trunk,Grass,Path
+map323,location323,Overworld,1,Building,Tree,Boundary,Stone
+map324,location324,Overworld,3,Other,Tree,Boundary,Flower
+map325,location325,Overworld,0,Bush,Dirt,Boundary
+map326,location326,Snow,0,Trunk,Building
+map327,location327,Overworld,1,Tree,Dirt,Bush,Boundary
+map328,location328,Overworld,0,Dirt,Boundary
+map329,location329,Overworld,0,Building,Dirt,Boundary
+map330,location330,Snow,0,Other,Fence,Building,NPC,Flower
+map331,location331,Overworld,Other,Flower,Path
